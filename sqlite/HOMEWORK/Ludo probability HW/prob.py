@@ -8,7 +8,7 @@ def ludo():
     if chance==6:
         return "You rolled a SIX!!!"
     else:
-        return "Wah Wah Wah "
+        return "Wah Wah Waaaaaaaahhhhh"
     
 luck = ludo()
 print(luck)
